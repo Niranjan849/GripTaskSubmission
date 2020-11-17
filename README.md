@@ -21,3 +21,7 @@ Department of Computer Technology
 
 Experience:
 It was a quite goo experience at sparks foundation intern training in this Tech task, my first task at data science and machine learning, it was more easier than I thought, enjoyed the training, hope Sparks will come with more techy tasks soon December intakes, ✨
+
+Tags:
+#TheSparksFoundation
+#gripnov2020
